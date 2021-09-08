@@ -3,10 +3,10 @@
 </div>
 
 
-- 👀 I’m interested in Software Development, Information Technology, and Audio Engineering!
-- 🌱 I’m currently learning React
-- 💞️ Looking to collaborate!
-- 📫 How to reach me: arodriguez202020@gmail.com
+- 👀  I’m interested in Software Development, Information Technology, and Audio Engineering
+- 🌱  I’m currently learning React
+- 💞️  Looking to collaborate!
+- 📫  How to reach me: arodriguez202020@gmail.com
 
 <!---
 alexrrodriguez/alexrrodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
