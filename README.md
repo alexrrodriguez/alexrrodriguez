@@ -3,7 +3,7 @@
 </div>
 
 
-- 👀  I’m interested in Software Development, Information Technology, and Audio Engineering
+- 👀  I’m interested in Software Development and Information Technology
 - 🌱  I’m currently learning React
 - 💞️  Looking to collaborate!
 - 📫  How to reach me: arodriguez202020@gmail.com
