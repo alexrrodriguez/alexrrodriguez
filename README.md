@@ -4,7 +4,6 @@
 
 
 - 👀  I’m interested in Software Development and Information Technology
-- 🌱  I’m currently working on Sound-Link App
 - 💞️  Looking to collaborate!
 - 📫  How to reach me: arodriguez202020@gmail.com
 
