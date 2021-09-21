@@ -1,5 +1,5 @@
 <div align="center"><h1>Hi, I'm Alex! </h1>
-  <h3>Web Developer • Tech Enthusiast</h3>
+  <h3>Software Developer • Tech Enthusiast</h3>
 </div>
 
 
